@@ -1,0 +1,19 @@
+{
+    "name": "Cloud Princess Casino Game | Play & Win Big Online",
+    "short_name": "PowerPlay",
+    "start_url": ".",
+    "display": "standalone",
+    "description": "Cloud Princess Casino Game \u2013 Spin for cash and style in Canada | Cloud Princess Game offers fun, music, and big wins | Play now securely",
+    "icons": [
+        {
+            "src": "images/fav.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/fav.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
